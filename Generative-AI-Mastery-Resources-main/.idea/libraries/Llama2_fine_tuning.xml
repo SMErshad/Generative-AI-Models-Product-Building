@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Llama2 fine-tuning">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Fine Tuning LLMs/Llama2 fine-tuning.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

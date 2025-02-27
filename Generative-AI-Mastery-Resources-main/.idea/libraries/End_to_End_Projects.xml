@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="End to End Projects">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/End to End Projects/End-to-end-Source-Code-Analysis-Generative-AI-main.zip!/" />
+      <root url="jar://$PROJECT_DIR$/End to End Projects/End-to-end-Medical-Chatbot-Generative-AI-main.zip!/" />
+      <root url="jar://$PROJECT_DIR$/End to End Projects/LLM-Apps-with-Chainlit-main.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

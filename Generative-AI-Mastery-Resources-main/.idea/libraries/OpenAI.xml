@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="OpenAI">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Complete Guide to Open AI/OpenAI.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

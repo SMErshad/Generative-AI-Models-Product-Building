@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="LLMOps">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/LLMOps/bedrock demo.zip!/" />
+      <root url="jar://$PROJECT_DIR$/LLMOps/GenerativeAI-Project-RAG-Bedrock.zip!/" />
+      <root url="jar://$PROJECT_DIR$/LLMOps/LLM-Powered-Chatbot.zip!/" />
+      <root url="jar://$PROJECT_DIR$/LLMOps/Vertexai_local_demo.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

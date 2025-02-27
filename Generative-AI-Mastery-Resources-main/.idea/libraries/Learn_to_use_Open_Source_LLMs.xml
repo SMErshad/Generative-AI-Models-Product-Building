@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Learn to use Open Source LLMs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Learn to use Open Source LLMs/falcon-open llm.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Learn to use Open Source LLMs/open llm.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Retrieval Augmented Generation (RAG)">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Retrieval Augmented Generation (RAG)/RAG-Demo.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Retrieval Augmented Generation (RAG)/RAG-gemini.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
